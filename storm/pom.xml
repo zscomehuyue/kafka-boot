@@ -15,7 +15,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <storm.kafka.version>1.0.1</storm.kafka.version>
+        <storm.kafka.version>1.1.3</storm.kafka.version>
     </properties>
 
     <dependencies>
